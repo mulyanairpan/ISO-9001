@@ -14,3 +14,4 @@ FITUR:
 9. Tindakan Perbaikan dan Pencegahan (Followup NC)
 10. Scheduling (View monitoring deadline)
 
+*jika ada pertanyaan silahkan contact mulyanairpan@gmail.com

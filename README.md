@@ -9,7 +9,8 @@ FITUR:
 4. Pengaturan Hak Akses view dokumen (.pdf)
 5. View dokumen ISO (Manual Mutu, Prosdur, WI)
 6. View dokumen Job Description
-7. View dokumen ekternal (Artikel, jurnal, peraturan perusahaan, peraturan pemerintah Dll.)
+7. View dokumen eksternal (Artikel, jurnal, peraturan perusahaan, peraturan pemerintah Dll.)
 8. Manajemen Risiko
 9. Tindakan Perbaikan dan Pencegahan (Followup NC)
+10. Scheduling (View monitoring deadline)
 
